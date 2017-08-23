@@ -1,8 +1,7 @@
 # Commands
 *Useful commands to handle the process of the mysql and apache services.*
 ## Requirements
-  **S.O**
-  + Ubuntu,Mint...
+  +**S.O**: Ubuntu,Mint,Debian,Other debian derivatives...
  + Python 2.7 (recommended)
  ## Actions in console
  + * $ python init.py*
