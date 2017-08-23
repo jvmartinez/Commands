@@ -14,9 +14,11 @@ Action to select:
 *Select your preferred action*
 > Example: 1
 ´´´
-============================
+
+
 Server of mysql-sql
-============================
+
+
 1) Restart 
 2) Stop 
 3) Start 
@@ -25,6 +27,7 @@ Action to select:
 > Example: 1
  *You will be prompted for your super user password*
 > Response:
-´´´
-Process executed...
-´´´
+
+>Process executed...
+
+
