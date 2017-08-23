@@ -22,8 +22,8 @@ Action to select:
 
 > Example: 1
  *You will be prompted for your super user password*
-> Response:
 
->Process executed...
+> Response:
+Process executed...
 
 
