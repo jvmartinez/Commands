@@ -4,7 +4,7 @@
   + **S.O**: Ubuntu,Mint,Debian,Other debian derivatives...
  + Python 2.7 (recommended)
  ## Actions in console
- + * $ python init.py*
+ + *$ python init.py*
  
 1) Server of mysql-sql
 2) Server of apache
